@@ -1,0 +1,12 @@
+*{
+	padding:0;
+	margin:0;
+	font-family: '宋体';
+	font-size: 15px;
+}
+.searchInput{
+	position: absolute;
+	width: 300px;
+	height: 100px;
+	border: 1px solid green;
+}
